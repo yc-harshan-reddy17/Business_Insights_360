@@ -52,7 +52,7 @@ As you can see, data modeling is crucial since it establishes the framework for 
 
 ## Power BI Dashboard Overview:
 
-The dashboard is made up of six pages-->
+The dashboard is made up of six pages--->
 
 ### Home Page: A landing page with buttons to navigate to different pages.
 
